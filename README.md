@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jesse1812
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on OpenClassRooms courses
+- 💞️ I’m looking to get a web developer job
 - 📫 How to reach me : jesse.movecar@gmail.com
 
 <!---
